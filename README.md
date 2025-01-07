@@ -1,2 +1,2 @@
-# portfolio
-personal portfolio website
+# portfolio v1
+personal portfolio website built with static webpages through VSCode
